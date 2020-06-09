@@ -4,5 +4,14 @@
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#e8eaed",
-    "theme_color": "#0ae403"
+    "theme_color": "#0ae403",
+    "icons": [{
+        "src": "kitten-192.jpg",
+          "sizes": "192x192",
+          "type": "image/jpg"
+        }, {
+          "src": "kitten-512.jpg",
+          "sizes": "512x512",
+          "type": "image/jpg"
+        }]
   }
