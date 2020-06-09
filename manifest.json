@@ -1,0 +1,8 @@
+{
+    "name": "Gatito, lo mejor del mundo",
+    "short_name": "Gatito",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#e8eaed",
+    "theme_color": "#0ae403"
+  }
