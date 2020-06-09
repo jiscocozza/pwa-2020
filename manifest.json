@@ -6,12 +6,12 @@
     "background_color": "#e8eaed",
     "theme_color": "#0ae403",
     "icons": [{
-        "src": "kitten-192.jpg",
+        "src": "kitten-192.png",
           "sizes": "192x192",
-          "type": "image/jpg"
+          "type": "image/png"
         }, {
-          "src": "kitten-512.jpg",
+          "src": "kitten-512.png",
           "sizes": "512x512",
-          "type": "image/jpg"
+          "type": "image/png"
         }]
   }
